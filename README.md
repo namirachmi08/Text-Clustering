@@ -1,9 +1,11 @@
-Text Clustering dan Sentiment Analysis
+Text Clustering 
 
 ## Identitas Mahasiswa
 
-- **Nama:** Namira Rachmi Andini
-- **NIM:** 25031554153
+- **Nama Anggota:**
+Namira Rachmi Andini (25031554153)
+
+Syahira Nanda Raihanna (25031554199)
 - **Program Studi:** S1 Sains Data
 - **Fakultas:** Fakultas Matematika dan Ilmu Pengetahuan Alam
 - **Universitas:** Universitas Negeri Surabaya
